@@ -1,0 +1,4 @@
+git branch -m ES1101 main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
