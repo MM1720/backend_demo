@@ -1,0 +1,19 @@
+h1 {
+  color: maroon;
+}
+
+.post {
+  background-color: blanchedalmond;
+}
+
+.user {
+  font-style: italic;
+}
+
+div .btn {
+  text-decoration: none;
+}
+
+form {
+  display: inline;
+}
